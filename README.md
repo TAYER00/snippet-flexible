@@ -1,3 +1,5 @@
+odoo 17
+
 Odoo Website Snippet Module – Affichage dynamique des données
 Ce module Odoo innovant permet aux utilisateurs de personnaliser et d'afficher facilement des données provenant de la base de données dans leur site web, sans nécessiter de code complexe. Grâce à l'intégration avec le module Website, il offre une solution élégante et intuitive pour afficher les informations choisies via un snippet dynamique.
 
